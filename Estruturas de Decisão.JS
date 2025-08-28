@@ -5,7 +5,7 @@ Exercícios Práticos - Estruturas de Decisão (if, else, switch)
 */
 
 // 1. Crie uma variável idade e use um if para exibir "Maior de idade" se idade >= 18.
-let idade = 20;
+let idade = ;
 if (idade >= 18) {      
 // 2. Crie uma variável hora e use if/else para exibir "Bom dia" se hora < 12 e "Boa tarde" caso contrário.
     console.log("Maior de idade");

@@ -5,7 +5,7 @@ Exercícios Práticos - Operadores em JavaScript
 */
 
 // 1. Declare duas variáveis numéricas e exiba a soma usando o operador +.
-let num1 = 5;
+let num1 = 6s;
 let num2 = 10;      
 // 2. Declare duas variáveis numéricas e exiba a subtração usando o operador -.
 console.log("Soma:", num1 + num2);
